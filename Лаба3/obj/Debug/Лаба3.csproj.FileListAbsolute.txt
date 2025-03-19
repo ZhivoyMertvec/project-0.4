@@ -1,0 +1,9 @@
+E:\3021\Бик, Сагдеев\Лаба3\bin\Debug\Лаба3.exe.config
+E:\3021\Бик, Сагдеев\Лаба3\bin\Debug\Лаба3.exe
+E:\3021\Бик, Сагдеев\Лаба3\bin\Debug\Лаба3.pdb
+E:\3021\Бик, Сагдеев\Лаба3\obj\Debug\Лаба3.csprojResolveAssemblyReference.cache
+E:\3021\Бик, Сагдеев\Лаба3\obj\Debug\Лаба3.Form1.resources
+E:\3021\Бик, Сагдеев\Лаба3\obj\Debug\Лаба3.Properties.Resources.resources
+E:\3021\Бик, Сагдеев\Лаба3\obj\Debug\Лаба3.csproj.GenerateResource.Cache
+E:\3021\Бик, Сагдеев\Лаба3\obj\Debug\Лаба3.exe
+E:\3021\Бик, Сагдеев\Лаба3\obj\Debug\Лаба3.pdb
